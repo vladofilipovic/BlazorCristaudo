@@ -1762,11 +1762,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/brunocristaudo/Documents/Erasmus/D.S.S/8runoCT.github.io/BlazorApp1/BlazorApp1/BlazorApp1.csproj",
+      "projectUniqueName": "/Users/brunocristaudo/Documents/Erasmus/D.S.S/8runoCT.github.io/BlazorCristaudo/BlazorApp1/BlazorApp1.csproj",
       "projectName": "BlazorApp1",
-      "projectPath": "/Users/brunocristaudo/Documents/Erasmus/D.S.S/8runoCT.github.io/BlazorApp1/BlazorApp1/BlazorApp1.csproj",
+      "projectPath": "/Users/brunocristaudo/Documents/Erasmus/D.S.S/8runoCT.github.io/BlazorCristaudo/BlazorApp1/BlazorApp1.csproj",
       "packagesPath": "/Users/brunocristaudo/.nuget/packages/",
-      "outputPath": "/Users/brunocristaudo/Documents/Erasmus/D.S.S/8runoCT.github.io/BlazorApp1/BlazorApp1/obj/",
+      "outputPath": "/Users/brunocristaudo/Documents/Erasmus/D.S.S/8runoCT.github.io/BlazorCristaudo/BlazorApp1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/brunocristaudo/.nuget/NuGet/NuGet.Config"

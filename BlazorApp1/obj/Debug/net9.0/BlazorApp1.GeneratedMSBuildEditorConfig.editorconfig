@@ -13,45 +13,45 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = browser
 build_property.RootNamespace = BlazorApp1
 build_property.RootNamespace = BlazorApp1
-build_property.ProjectDir = /Users/brunocristaudo/Documents/Erasmus/D.S.S/8runoCT.github.io/BlazorApp1/BlazorApp1/
+build_property.ProjectDir = /Users/brunocristaudo/Documents/Erasmus/D.S.S/8runoCT.github.io/BlazorCristaudo/BlazorApp1/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = false
 build_property.RazorLangVersion = 9.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/brunocristaudo/Documents/Erasmus/D.S.S/8runoCT.github.io/BlazorApp1/BlazorApp1
+build_property.MSBuildProjectDirectory = /Users/brunocristaudo/Documents/Erasmus/D.S.S/8runoCT.github.io/BlazorCristaudo/BlazorApp1
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
-[/Users/brunocristaudo/Documents/Erasmus/D.S.S/8runoCT.github.io/BlazorApp1/BlazorApp1/App.razor]
+[/Users/brunocristaudo/Documents/Erasmus/D.S.S/8runoCT.github.io/BlazorCristaudo/BlazorApp1/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/brunocristaudo/Documents/Erasmus/D.S.S/8runoCT.github.io/BlazorApp1/BlazorApp1/Pages/Counter.razor]
+[/Users/brunocristaudo/Documents/Erasmus/D.S.S/8runoCT.github.io/BlazorCristaudo/BlazorApp1/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/brunocristaudo/Documents/Erasmus/D.S.S/8runoCT.github.io/BlazorApp1/BlazorApp1/Pages/FactorialPage.razor]
+[/Users/brunocristaudo/Documents/Erasmus/D.S.S/8runoCT.github.io/BlazorCristaudo/BlazorApp1/Pages/FactorialPage.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRmFjdG9yaWFsUGFnZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/brunocristaudo/Documents/Erasmus/D.S.S/8runoCT.github.io/BlazorApp1/BlazorApp1/Pages/Home.razor]
+[/Users/brunocristaudo/Documents/Erasmus/D.S.S/8runoCT.github.io/BlazorCristaudo/BlazorApp1/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSG9tZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/brunocristaudo/Documents/Erasmus/D.S.S/8runoCT.github.io/BlazorApp1/BlazorApp1/Pages/Weather.razor]
+[/Users/brunocristaudo/Documents/Erasmus/D.S.S/8runoCT.github.io/BlazorCristaudo/BlazorApp1/Pages/Weather.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvV2VhdGhlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/brunocristaudo/Documents/Erasmus/D.S.S/8runoCT.github.io/BlazorApp1/BlazorApp1/_Imports.razor]
+[/Users/brunocristaudo/Documents/Erasmus/D.S.S/8runoCT.github.io/BlazorCristaudo/BlazorApp1/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/brunocristaudo/Documents/Erasmus/D.S.S/8runoCT.github.io/BlazorApp1/BlazorApp1/Layout/MainLayout.razor]
+[/Users/brunocristaudo/Documents/Erasmus/D.S.S/8runoCT.github.io/BlazorCristaudo/BlazorApp1/Layout/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = TGF5b3V0L01haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-g99638wy9i
 
-[/Users/brunocristaudo/Documents/Erasmus/D.S.S/8runoCT.github.io/BlazorApp1/BlazorApp1/Layout/NavMenu.razor]
+[/Users/brunocristaudo/Documents/Erasmus/D.S.S/8runoCT.github.io/BlazorCristaudo/BlazorApp1/Layout/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = TGF5b3V0L05hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-j5518nm3vt

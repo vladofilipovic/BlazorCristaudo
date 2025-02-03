@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wNdcfddk/ZQ=",
+  "dgSpecHash": "0HifKv6EifI=",
   "success": true,
-  "projectFilePath": "/Users/brunocristaudo/Documents/Erasmus/D.S.S/8runoCT.github.io/BlazorApp1/BlazorApp1/BlazorApp1.csproj",
+  "projectFilePath": "/Users/brunocristaudo/Documents/Erasmus/D.S.S/8runoCT.github.io/BlazorCristaudo/BlazorApp1/BlazorApp1.csproj",
   "expectedPackageFiles": [
     "/Users/brunocristaudo/.nuget/packages/microsoft.aspnetcore.authorization/9.0.1/microsoft.aspnetcore.authorization.9.0.1.nupkg.sha512",
     "/Users/brunocristaudo/.nuget/packages/microsoft.aspnetcore.components/9.0.1/microsoft.aspnetcore.components.9.0.1.nupkg.sha512",
