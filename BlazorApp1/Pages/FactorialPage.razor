@@ -1,0 +1,36 @@
+@page "/factorial"  
+
+<h3>Factorial Calculation</h3>
+
+<p>Enter a number:</p>
+<input type="number" @bind="inputNumber" min="0" />
+
+<button @onclick="CalculateFactorial">Calculate Factorial</button>
+
+@if (factorialResult.HasValue)
+{
+    <p>The factorial of @inputNumber is: @factorialResult.Value</p>
+}
+
+@code {
+    private int inputNumber;  // User input number
+    private long? factorialResult;  // Result of the factorial
+
+    private void CalculateFactorial()
+    {
+        factorialResult = Factorial(inputNumber);
+    }
+
+    private long Factorial(int number)
+    {
+        if (number == 0 || number == 1)
+            return 1;
+
+        long result = 1;
+        for (int i = 2; i <= number; i++)
+        {
+            result *= i;  // Calculate the factorial
+        }
+        return result;
+    }
+}
