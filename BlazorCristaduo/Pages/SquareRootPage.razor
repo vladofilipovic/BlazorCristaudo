@@ -1,0 +1,30 @@
+@page "/squareroot"
+
+<h3>Calcolo della Radice Quadrata</h3>
+
+<p>Inserisci un numero:</p>
+<input type="number" @bind="inputNumber" min="0" />
+
+<button @onclick="CalculateSquareRoot">Calcola Radice Quadrata</button>
+
+@if (squareRootResult.HasValue)
+{
+    <p>La radice quadrata di @inputNumber è: @squareRootResult.Value</p>
+}
+
+@code {
+    private double inputNumber;  // Numero di input dall'utente
+    private double? squareRootResult;  // Risultato della radice quadrata
+
+    private void CalculateSquareRoot()
+    {
+        if (inputNumber >= 0)
+        {
+            squareRootResult = Math.Sqrt(inputNumber);  // Calcola la radice quadrata
+        }
+        else
+        {
+            squareRootResult = null;  // Gestisci i numeri negativi
+        }
+    }
+}
