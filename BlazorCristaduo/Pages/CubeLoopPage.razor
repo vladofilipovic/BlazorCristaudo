@@ -1,0 +1,36 @@
+@page "/cubeloop"
+
+<h3>Cube Loop Calculator</h3>
+
+<p>Enter a number:</p>
+<input type="number" @bind="inputNumber" min="0" />
+
+<button @onclick="CalculateCubes">Calculate Cubes</button>
+
+@if (results != null && results.Count > 0)
+{
+    <h4>Results:</h4>
+    <ul>
+        @foreach (var result in results)
+        {
+            <li>@result</li>
+        }
+    </ul>
+}
+
+@code {
+    private double inputNumber;  // User input number
+    private List<double> results; // List to store results
+
+    private void CalculateCubes()
+    {
+        results = new List<double>();
+        double currentValue = inputNumber;
+
+        while (currentValue < 10000)
+        {
+            results.Add(currentValue);
+            currentValue = Math.Pow(currentValue, 3); // Raise to the power of three
+        }
+    }
+}
