@@ -13,18 +13,18 @@
 }
 
 @code {
-    private double inputNumber;  // User input number
-    private double? squareRootResult;  // Result of the square root calculation
+    private double inputNumber;  
+    private double? squareRootResult;  
 
     private void CalculateSquareRoot()
     {
         if (inputNumber >= 0)
         {
-            squareRootResult = Math.Sqrt(inputNumber);  // Calculate the square root
+            squareRootResult = Math.Sqrt(inputNumber);  
         }
         else
         {
-            squareRootResult = null;  // Handle negative numbers
+            squareRootResult = null;  
         }
     }
 }
