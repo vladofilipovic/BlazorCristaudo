@@ -19,8 +19,8 @@
 }
 
 @code {
-    private double inputNumber;  // User input number
-    private List<double> results; // List to store results
+    private double inputNumber;  
+    private List<double> results; 
 
     private void CalculateCubes()
     {
@@ -30,7 +30,7 @@
         while (currentValue < 10000)
         {
             results.Add(currentValue);
-            currentValue = Math.Pow(currentValue, 3); // Raise to the power of three
+            currentValue = Math.Pow(currentValue, 3); 
         }
     }
 }
